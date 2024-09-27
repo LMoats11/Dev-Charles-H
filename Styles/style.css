@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://www.wordforest.org/wp-content/uploads/2016/12/forest-4-e1483856441969.jpg);
+  background-color: rgba(255, 255, 255, 0.486);
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Oleo Script', cursive; /* Apply Oleo Script font to the body */
+}
+
+.mainTitle {
+  color: purple;
+  border: 0px;
+  border-bottom: solid 1px red;
+  text-align: center;
+  font-family: 'Georgia', serif; /* Apply Georgian font for titles */
+  font-style: italic; /* Italicize the title */
+}
+
+p {
+  font-family: 'Oleo Script', cursive; /* Apply Oleo Script to paragraphs */
+  font-size: 11px;
+}
+
+#show-list li {
+  font-family: 'Oleo Script', cursive;
+  color: red; /* Apply Oleo Script to list items */
+  list-style:none;
+}
